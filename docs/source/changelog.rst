@@ -27,10 +27,3 @@ Nightly 20200328
 Nightly 20200321
 ----------------
 * First Nightly
-
-.. toctree::
-	:caption: Contents
-	:name: contents
-	
-	versions
-	changelog
