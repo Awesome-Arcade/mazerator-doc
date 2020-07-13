@@ -1,5 +1,5 @@
 .. Mazerator documentation master file, created by
-   sphinx-quickstart on Sun Jul 12 19:37:51 2020.
+   sphinx-quickstart on Mon Jul 13 15:40:53 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
