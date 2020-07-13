@@ -9,6 +9,6 @@ formats:
 python:
     version: 3.8
     install:
-        - requirements: requirements.txt
+        - requirements: docs/requirements.txt
         - method: pip
     system_packages: true
