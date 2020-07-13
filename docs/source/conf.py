@@ -22,7 +22,7 @@ copyright = '2020, Awesome Arcade'
 author = 'Awesome Arcade'
 
 # The full version, including alpha/beta/rc tags
-release = 'Nightly'
+release = 'Nightly 20200502'
 
 
 # -- General configuration ---------------------------------------------------
@@ -31,6 +31,7 @@ release = 'Nightly'
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 extensions = [
+    'sphinx.ext.autosectionlabel'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
