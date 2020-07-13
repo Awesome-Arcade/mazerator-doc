@@ -17,3 +17,4 @@ This is a game where you have to go through mazes and at the end of the game, yo
 	:name: contents
 	
 	versions
+	changelog
