@@ -1,4 +1,4 @@
-#Mazerator Documentation!
+# Mazerator Documentation!
 
 [![Documentation Status](https://readthedocs.org/projects/mazerator/badge/?version=latest)](https://mazerator.readthedocs.io/en/latest/?badge=latest)
 
